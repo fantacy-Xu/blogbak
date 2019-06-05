@@ -10,6 +10,7 @@ keywords:
 author: Fantacy-Xu
 language:
 timezone:
+mathjax: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-alpha-dust
+theme: Fan
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
